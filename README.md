@@ -19,7 +19,7 @@
   - [Local](#local)
 - [Development](#development)
 - [Credits](#credits)
-
+s
 ## Description
 
 Combines streams from other addons into one and provides much greater customisation:
